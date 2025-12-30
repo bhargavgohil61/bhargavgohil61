@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Bhargav Gohil, a Full-Stack Developer with over 5 years of experience specializing in Vue.js and Laravel. I have a strong background in building scalable, high-performance web applications with clean architecture and user-focused design.<br><br>Currently, I work with modern AI-driven platforms such as Lovable, Base44, and Greta.ai, where I help design, develop, and optimize intelligent digital solutions. I enjoy leveraging AI tools and emerging technologies to deliver efficient, future-ready products.<br><br>I am passionate about problem-solving, continuous learning, and creating impactful software solutions that add real business value.
+I am Bhargav Gohil, a Full-Stack Developer with over 5+ years of experience specializing in Vue.js and Laravel. I have a strong background in building scalable, high-performance web applications with clean architecture and user-focused design.<br><br>Currently, I work with modern AI-driven platforms such as Lovable, Base44, and Greta.ai, where I help design, develop, and optimize intelligent digital solutions. I enjoy leveraging AI tools and emerging technologies to deliver efficient, future-ready products.<br><br>I am passionate about problem-solving, continuous learning, and creating impactful software solutions that add real business value.
 
 
 ## 🌐 Socials:
